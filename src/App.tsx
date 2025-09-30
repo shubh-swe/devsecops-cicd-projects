@@ -1,4 +1,3 @@
-import React, { useState, useEffect } from 'react';
 import { RefreshCw, Rocket, Star } from 'lucide-react';
 import Board from './components/Board';
 import ScoreBoard from './components/ScoreBoard';
