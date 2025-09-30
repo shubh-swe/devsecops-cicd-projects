@@ -2,7 +2,8 @@
 
 ![Screenshot 2025-03-04 at 7 16 48 PM](https://github.com/user-attachments/assets/7ed79f9c-9144-4870-accd-500085a15592)
 
-![image](https://github.com/user-attachments/assets/5b2813a5-f493-4665-8964-77359b5be93a)
+<img width="1898" height="928" alt="ticc" src="https://github.com/user-attachments/assets/a83a9f8e-55b9-40c9-96e7-1e3d86fdd779" />
+
 
 ## Features
 
