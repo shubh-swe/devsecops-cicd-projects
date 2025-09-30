@@ -18,7 +18,7 @@ function App() {
   const [winningLine, setWinningLine] = useState<number[] | null>(null);
 
   // player names
-  const [players, setPlayers] = useState({ X: "Shubh", O: "Opponent" });
+  const [players, setPlayers] = useState({ X: "Shubham", O: "Opponent" });
 
   // Check winner/draw
   useEffect(() => {
