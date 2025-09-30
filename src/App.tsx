@@ -1,4 +1,4 @@
-import { RefreshCw, Rocket, Star } from 'lucide-react';
+import { RefreshCw, Rocket} from 'lucide-react';
 import Board from './components/Board';
 import ScoreBoard from './components/ScoreBoard';
 import GameHistory from './components/GameHistory';
