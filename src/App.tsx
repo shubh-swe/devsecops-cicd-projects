@@ -127,6 +127,10 @@ function App() {
 
           {/* Score + History */}
           <div className="flex flex-col gap-6">
+            {/* ⭐ Star Banner */}
+            <div className="flex items-center gap-2 text-yellow-400 font-semibold text-lg justify-center">
+              <Star className="h-5 w-5" /> Legendary Matches
+            </div>
             <ScoreBoard scores={scores} players={players} setPlayers={setPlayers} />
             <GameHistory history={gameHistory} players={players} />
           </div>
